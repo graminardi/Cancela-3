@@ -1,0 +1,4 @@
+<resources>
+    <string name="service_desc">Detecta qual app está sendo aberto para exigir biometria nos apps protegidos. Não lê o conteúdo da tela.</string>
+    <string name="widget_desc">Liga o modo criança com um toque. Desligar exige biometria.</string>
+</resources>
